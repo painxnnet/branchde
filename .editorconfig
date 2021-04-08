@@ -1,4 +1,8 @@
 # EditorConfig is awesome: http://EditorConfig.org
+# 测试站点:202.127.45.19
+# www.moa.gov.cn
+#user:admin
+#pass:123456
 root = false
 
 [*]
